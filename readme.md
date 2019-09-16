@@ -6,5 +6,5 @@
 <li>Argument with yargs;</li>
 <li>Module exports;</li>
 <li>Json;</li>
-<li>ES6 methods;</li>
+<li>ES6 method definition syntax.</li>
 </ul>
